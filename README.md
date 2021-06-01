@@ -9,4 +9,6 @@ Saving and Opening Image
 
 Screenshots: 
 
+<img src="paint-save.png">
+
 
