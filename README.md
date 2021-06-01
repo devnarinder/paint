@@ -9,6 +9,10 @@ Saving and Opening Image
 
 Screenshots: 
 
-<img src="paint-save.png">
+<img src="Paint-menu.png">
+<img src="Paint-tools.png">
+<img src="Paint-save.png">
+<img src="Paint-save2.png">
+<img src="about.png">
 
 
